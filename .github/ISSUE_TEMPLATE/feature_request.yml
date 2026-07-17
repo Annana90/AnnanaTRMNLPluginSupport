@@ -9,10 +9,10 @@ body:
     attributes:
       label: Plugin
       options:
-        - RetroAchievements Dashboard
-        - Elite Dangerous Commander Dashboard
-        - WoW Character Companion
-        - Bus A Coruña
+            - RetroArchTRMNL
+            - EDTRMNL Dashboard
+            - WoW Character Dashboard
+            - ITranvias - Bus A Coruña
         - General / Other
     validations:
       required: true
