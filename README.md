@@ -17,7 +17,7 @@ Displays your RetroAchievements profile, recently played games, completion progr
 
 ![RetroArchTRMNL preview](assets/previews/retroarchtrmnl.png)
 
-- Install on TRMNL: Coming soon
+- [Install on TRMNL](https://trmnl.com/recipes/374801)
 - [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
 
 ### EDTRMNL Dashboard
