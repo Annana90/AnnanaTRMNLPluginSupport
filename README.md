@@ -6,10 +6,10 @@ This repository is used **only for support and issue tracking**. The source code
 
 ## Supported plugins
 
-- RetroAchievements Dashboard
-- Elite Dangerous Commander Dashboard
-- WoW Character Companion
-- Bus A Coruña
+- RetroArchTRMNL
+- EDTRMNL Dashboard
+- WoW Character Dashboard
+- ITranvias - Bus A Coruña
 
 ## Report a problem
 
