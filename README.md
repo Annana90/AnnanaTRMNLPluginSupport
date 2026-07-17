@@ -30,13 +30,13 @@ When reporting a problem, please include:
 
 Please do **not** include passwords, API keys, tokens, webhook URLs, or other private information.
 
-[Open a bug report](https://github.com/Annana90/TRMNL-Plugin-Support/issues/new?template=bug_report.yml)
+[Open a bug report](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
 
 ## Feature requests
 
 Suggestions are welcome, although new features are not guaranteed.
 
-[Request a feature](https://github.com/Annana90/TRMNL-Plugin-Support/issues/new?template=feature_request.yml)
+[Request a feature](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=feature_request.yml)
 
 ## Contact
 
