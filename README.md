@@ -11,6 +11,15 @@ This repository is used **only for support and issue tracking**. The source code
 - WoW Character Dashboard
 - ITranvias - Bus A Coruña
 
+### ITranvias - Bus A Coruña
+
+Displays real-time bus arrival information for selected stops in A Coruña using data from iTranvías.
+
+[![ITranvias - Bus A Coruña preview](assets/previews/itranvias-bus-coruna.png)](https://trmnl.com/recipes/312018)
+
+- [Install on TRMNL](https://trmnl.com/recipes/312018)
+- [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
+
 ## Report a problem
 
 Before opening an issue:
