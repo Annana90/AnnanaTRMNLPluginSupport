@@ -10,7 +10,7 @@ body:
       label: Plugin
       description: Which plugin is affected?
       options:
-       - RetroArchTRMNL
+        - RetroArchTRMNL
         - EDTRMNL Dashboard
         - WoW Character Dashboard
         - ITranvias - Bus A Coruña
