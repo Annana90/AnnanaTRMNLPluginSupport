@@ -35,7 +35,7 @@ Displays your World of Warcraft character profile, including level, race, class,
 
 ![WoW Character Dashboard preview](assets/previews/wow-character-dashboard.png)
 
-- Install on TRMNL: Coming soon
+- [Install on TRMNL](https://trmnl.com/recipes/377601)
 - [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
 
 ### ITranvias - Bus A Coruña
