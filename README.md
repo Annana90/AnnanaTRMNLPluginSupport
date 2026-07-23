@@ -9,6 +9,7 @@ This repository is used **only for support and issue tracking**. The source code
 - RetroArchTRMNL
 - EDTRMNL Dashboard
 - WoW Character Dashboard
+- Pokémon Team Analyzer
 - ITranvias - Bus A Coruña
 
 ### RetroArchTRMNL
@@ -26,7 +27,7 @@ Displays your Elite Dangerous commander profile, current location, active ship, 
 
 ![EDTRMNL Dashboard preview](assets/previews/edtrmnl-dashboard.png)
 
-- Install on TRMNL: Coming soon
+- [Install on TRMNL](https://trmnl.com/recipes/375783)
 - [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
 
 ### WoW Character Dashboard
@@ -36,6 +37,15 @@ Displays your World of Warcraft character profile, including level, race, class,
 ![WoW Character Dashboard preview](assets/previews/wow-character-dashboard.png)
 
 - [Install on TRMNL](https://trmnl.com/recipes/377601)
+- [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
+
+### Pokémon Team Analyzer
+
+Displays and analyses a team of up to six Pokémon using generation-specific types, moves, evolutions, shared weaknesses, defensive checks, and offensive coverage.
+
+[![Pokémon Team Analyzer preview](assets/previews/pokemon-team-analyzer.png)](https://trmnl.com/recipes/380711)
+
+- [Install on TRMNL](https://trmnl.com/recipes/380711)
 - [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
 
 ### ITranvias - Bus A Coruña
