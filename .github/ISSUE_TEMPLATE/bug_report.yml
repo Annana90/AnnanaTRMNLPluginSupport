@@ -15,6 +15,7 @@ body:
         - WoW Character Dashboard
         - Pokémon Team Analyzer
         - ITranvias - Bus A Coruña
+        - GOG Archive Radar
         - Other
     validations:
       required: true

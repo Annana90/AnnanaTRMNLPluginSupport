@@ -11,6 +11,7 @@ This repository is used **only for support and issue tracking**. The source code
 - WoW Character Dashboard
 - Pokémon Team Analyzer
 - ITranvias - Bus A Coruña
+- GOG Archive Radar
 
 ### RetroArchTRMNL
 
@@ -55,6 +56,15 @@ Displays real-time bus arrival information for selected stops in A Coruña using
 [![ITranvias - Bus A Coruña preview](assets/previews/itranvias-bus-coruna.png)](https://trmnl.com/recipes/312018)
 
 - [Install on TRMNL](https://trmnl.com/recipes/312018)
+- [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
+
+### GOG Archive Radar
+
+Displays curated GOG deals worth buying or archiving, including Must Archive picks, Ridiculous Price deals, Great Buys, and discounted games from your public GOG wishlist.
+
+[![GOG Archive Radar preview](assets/previews/gog-archive-radar.png)](https://trmnl.com/)
+
+- [Install on TRMNL](https://trmnl.com/)
 - [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
 
 ## Report a problem
