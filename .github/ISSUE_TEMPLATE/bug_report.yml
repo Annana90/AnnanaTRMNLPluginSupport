@@ -16,6 +16,7 @@ body:
         - Pokémon Team Analyzer
         - ITranvias - Bus A Coruña
         - GOG Archive Radar
+        - Steam Backlog
         - Other
     validations:
       required: true

@@ -67,6 +67,15 @@ Displays curated GOG deals worth buying or archiving, including Must Archive pic
 - [Install on TRMNL](https://trmnl.com/)
 - [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
 
+### Steam Backlog
+
+Recommends one game from your Steam backlog each day, with optional playtime and genre filters, while keeping track of previous recommendations to avoid repeats.
+
+[![Steam Backlog preview](assets/previews/steam-backlog.png)](https://trmnl.com/)
+
+- [Install on TRMNL](https://trmnl.com/)
+- [Report an issue](https://github.com/Annana90/AnnanaTRMNLPluginSupport/issues/new?template=bug_report.yml)
+
 ## Report a problem
 
 Before opening an issue:
